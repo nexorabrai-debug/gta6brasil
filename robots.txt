@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://nexorabrai-debug.github.io/gta6brasil/sitemap.xml
